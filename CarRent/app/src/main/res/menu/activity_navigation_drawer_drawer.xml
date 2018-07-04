@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Home"
+            android:icon="@drawable/ic_action_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/MyProfile"
+            android:icon="@drawable/ic_action_user"
+            android:title="My Profile" />
+        <item
+            android:id="@+id/History"
+            android:icon="@drawable/ic_action_book"
+            android:title="History" />
+        <item
+            android:id="@+id/BookCar"
+            android:icon="@drawable/ic_action_car"
+            android:title="Book Car" />
+    </group>
+
+
+</menu>
+
+

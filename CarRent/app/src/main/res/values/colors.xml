@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF7F50</color>
+    <color name="btnbackground">#FF7F50</color>
+    <color name="btntext">#ffff</color>
+    <color name="lablecolor">#FF7F50</color>
+    <color name="textcolor">#000000</color>
+    <color name="white">#ffff</color>
+    <color name="toolbarbackground">#526495ed</color>
+    <color name="spinner">#DCDCDC</color>
+    <color name="ratebackground">#d7006400</color>
+
+</resources>
